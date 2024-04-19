@@ -1,0 +1,609 @@
+[
+    {
+        "Title": "Counter-Strike 2",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "21/08/2012",
+        "OS:": "Windows® 10",
+        "Processor:": "4 hardware CPU threads - Intel® Core™ i5 750 or higher",
+        "Memory:": "8 GB RAM",
+        "Graphics:": "Video card must be 1 GB or more and should be a DirectX 11-compatible with support for Shader Model 5.0",
+        "DirectX:": "Version 11",
+        "Storage:": "85 GB available space",
+        "languages": [
+            "English",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "Finnish",
+            "French",
+            "German",
+            "Hungarian",
+            "Italian",
+            "Japanese",
+            "Korean",
+            "Norwegian",
+            "Polish",
+            "Portuguese - Portugal",
+            "Portuguese - Brazil",
+            "Romanian",
+            "Russian",
+            "Simplified Chinese",
+            "Spanish - Spain",
+            "Swedish",
+            "Thai",
+            "Traditional Chinese",
+            "Turkish",
+            "Bulgarian",
+            "Ukrainian",
+            "Greek",
+            "Spanish - Latin America",
+            "Vietnamese"
+        ]
+    },
+    {
+        "Title": "Day of Defeat: Source",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "26/09/2005",
+        "languages": [
+            "English"
+        ]
+    },
+    {
+        "Title": "Team Fortress Classic",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "01/04/1999",
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Spanish - Spain",
+            "Korean",
+            "Russian",
+            "Simplified Chinese",
+            "Traditional Chinese"
+        ]
+    },
+    {
+        "Title": "Day of Defeat",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "01/05/2003",
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Spanish - Spain"
+        ]
+    },
+    {
+        "Title": "Deathmatch Classic",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "01/06/2001",
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Spanish - Spain",
+            "Korean",
+            "Russian",
+            "Simplified Chinese",
+            "Traditional Chinese"
+        ]
+    },
+    {
+        "Title": "Half-Life: Opposing Force",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "01/11/1999",
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Korean"
+        ]
+    },
+    {
+        "Title": "Ricochet",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "01/11/2000",
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Spanish - Spain",
+            "Korean",
+            "Russian",
+            "Simplified Chinese",
+            "Traditional Chinese"
+        ]
+    },
+    {
+        "Title": "Half-Life",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "08/11/1998",
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Spanish - Spain",
+            "Simplified Chinese",
+            "Traditional Chinese",
+            "Korean"
+        ]
+    },
+    {
+        "Title": "Half-Life: Blue Shift",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "01/06/2001",
+        "languages": [
+            "English",
+            "French",
+            "German"
+        ]
+    },
+    {
+        "Title": "Half-Life 2",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "16/11/2004",
+        "OS *:": "Windows 7, Vista, XP",
+        "Processor:": "1.7 Ghz",
+        "Memory:": "512 MB RAM",
+        "Graphics:": "DirectX 8.1 level Graphics Card (requires support for SSE)",
+        "Storage:": "6500 MB available space",
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Korean",
+            "Spanish - Spain",
+            "Russian",
+            "Simplified Chinese",
+            "Traditional Chinese",
+            "Dutch",
+            "Danish",
+            "Finnish",
+            "Japanese",
+            "Norwegian",
+            "Polish",
+            "Portuguese - Portugal",
+            "Swedish",
+            "Thai"
+        ]
+    },
+    {
+        "Title": "Counter-Strike: Source",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "01/11/2004",
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Korean",
+            "Spanish - Spain",
+            "Russian",
+            "Simplified Chinese",
+            "Traditional Chinese",
+            "Thai",
+            "Turkish"
+        ]
+    },
+    {
+        "Title": "Portal",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "10/10/2007",
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Russian",
+            "Danish",
+            "Dutch",
+            "Finnish",
+            "Italian",
+            "Japanese",
+            "Norwegian",
+            "Polish",
+            "Portuguese - Portugal",
+            "Simplified Chinese",
+            "Spanish - Spain",
+            "Swedish",
+            "Traditional Chinese",
+            "Korean",
+            "Bulgarian",
+            "Czech",
+            "Greek",
+            "Hungarian",
+            "Portuguese - Brazil",
+            "Romanian",
+            "Spanish - Latin America",
+            "Thai",
+            "Turkish",
+            "Ukrainian"
+        ]
+    },
+    {
+        "Title": "Half-Life 2: Episode Two",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "10/10/2007",
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Russian",
+            "Danish",
+            "Dutch",
+            "Finnish",
+            "Italian",
+            "Japanese",
+            "Korean",
+            "Norwegian",
+            "Polish",
+            "Portuguese - Portugal",
+            "Simplified Chinese",
+            "Spanish - Spain",
+            "Swedish",
+            "Traditional Chinese"
+        ]
+    },
+    {
+        "Title": "Left 4 Dead",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "17/11/2008",
+        "Supported OS:": "Windows® 7 32/64-bit / Vista 32/64 / XP                     ",
+        "Processor:": "Pentium 4 3.0GHz                      ",
+        "Memory:": "1 GB                     ",
+        "Graphics:": "128 MB, Shader model 2.0, ATI 9600, NVidia 6600 or better                      ",
+        "Hard Drive:": "At least 7.5 GB of free space                     ",
+        "Sound Card:": "DirectX 9.0c compatible sound card                    ",
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Spanish - Spain",
+            "Russian",
+            "Danish",
+            "Dutch",
+            "Finnish",
+            "Italian",
+            "Japanese",
+            "Norwegian",
+            "Polish",
+            "Portuguese - Portugal",
+            "Simplified Chinese",
+            "Swedish",
+            "Traditional Chinese",
+            "Korean",
+            "Bulgarian",
+            "Czech",
+            "Greek",
+            "Hungarian",
+            "Portuguese - Brazil",
+            "Romanian",
+            "Spanish - Latin America",
+            "Thai",
+            "Turkish",
+            "Ukrainian",
+            "Vietnamese"
+        ]
+    },
+    {
+        "Title": "Left 4 Dead 2",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "16/11/2009",
+        "OS *:": "Windows® 7 32/64-bit / Vista 32/64 / XP",
+        "Processor:": "Pentium 4 3.0GHz",
+        "Memory:": "2 GB RAM",
+        "Graphics:": "Video card with 128 MB, Shader model 2.0. ATI X800, NVidia 6600 or better",
+        "DirectX:": "Version 9.0c",
+        "Storage:": "13 GB available space",
+        "Sound Card:": "DirectX 9.0c compatible sound card",
+        "languages": [
+            "English",
+            "Danish",
+            "Dutch",
+            "Finnish",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Korean",
+            "Norwegian",
+            "Polish",
+            "Portuguese - Portugal",
+            "Russian",
+            "Simplified Chinese",
+            "Spanish - Spain",
+            "Swedish",
+            "Traditional Chinese",
+            "Hungarian",
+            "Turkish",
+            "Bulgarian",
+            "Czech",
+            "Greek",
+            "Portuguese - Brazil",
+            "Romanian",
+            "Spanish - Latin America",
+            "Thai",
+            "Ukrainian",
+            "Vietnamese"
+        ]
+    },
+    {
+        "Title": "Portal 2",
+        "Genre": [
+            "Action",
+            "Adventure"
+        ],
+        "Release Date": "18/04/2011",
+        "OS *:": "Windows 7 / Vista / XP",
+        "Processor:": "3.0 GHz P4, Dual Core 2.0 (or higher) or AMD64X2 (or higher)",
+        "Memory:": "2 GB RAM",
+        "Graphics:": "Video card must be 128 MB or more and with support for Pixel Shader 2.0b (ATI Radeon X800 or higher / NVIDIA GeForce 7600 or higher / Intel HD Graphics 2000 or higher).",
+        "DirectX:": "Version 9.0c",
+        "Storage:": "8 GB available space",
+        "Sound Card:": "DirectX 9.0c compatible",
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Spanish - Spain",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "Finnish",
+            "Hungarian",
+            "Italian",
+            "Japanese",
+            "Korean",
+            "Norwegian",
+            "Polish",
+            "Portuguese - Portugal",
+            "Romanian",
+            "Russian",
+            "Simplified Chinese",
+            "Swedish",
+            "Thai",
+            "Traditional Chinese",
+            "Turkish",
+            "Bulgarian",
+            "Greek",
+            "Portuguese - Brazil",
+            "Spanish - Latin America",
+            "Ukrainian"
+        ]
+    },
+    {
+        "Title": "Counter-Strike 2",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "21/08/2012",
+        "OS:": "Windows® 10",
+        "Processor:": "4 hardware CPU threads - Intel® Core™ i5 750 or higher",
+        "Memory:": "8 GB RAM",
+        "Graphics:": "Video card must be 1 GB or more and should be a DirectX 11-compatible with support for Shader Model 5.0",
+        "DirectX:": "Version 11",
+        "Storage:": "85 GB available space",
+        "languages": [
+            "English",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "Finnish",
+            "French",
+            "German",
+            "Hungarian",
+            "Italian",
+            "Japanese",
+            "Korean",
+            "Norwegian",
+            "Polish",
+            "Portuguese - Portugal",
+            "Portuguese - Brazil",
+            "Romanian",
+            "Russian",
+            "Simplified Chinese",
+            "Spanish - Spain",
+            "Swedish",
+            "Thai",
+            "Traditional Chinese",
+            "Turkish",
+            "Bulgarian",
+            "Ukrainian",
+            "Greek",
+            "Spanish - Latin America",
+            "Vietnamese"
+        ]
+    },
+    {
+        "Title": "Team Fortress 2",
+        "Genre": [
+            "Action",
+            "Free to Play"
+        ],
+        "Release Date": "10/10/2007",
+        "OS *:": "Windows® 7 (32/64-bit)/Vista/XP",
+        "Processor:": "1.7 GHz Processor or better",
+        "Memory:": "512 MB RAM",
+        "DirectX:": "Version 8.1",
+        "Network:": "Broadband Internet connection",
+        "Storage:": "15 GB available space",
+        "languages": [
+            "English",
+            "Danish",
+            "Dutch",
+            "Finnish",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Norwegian",
+            "Polish",
+            "Portuguese - Portugal",
+            "Russian",
+            "Simplified Chinese",
+            "Spanish - Spain",
+            "Swedish",
+            "Traditional Chinese",
+            "Korean",
+            "Czech",
+            "Hungarian",
+            "Portuguese - Brazil",
+            "Turkish",
+            "Greek",
+            "Bulgarian",
+            "Romanian",
+            "Thai",
+            "Ukrainian"
+        ]
+    },
+    {
+        "Title": "Dota 2",
+        "Genre": [
+            "Action",
+            "Strategy",
+            "Free to Play"
+        ],
+        "Release Date": "09/07/2013",
+        "OS *:": "Windows 7 or newer",
+        "Processor:": "Dual core from Intel or AMD at 2.8 GHz",
+        "Memory:": "4 GB RAM",
+        "Graphics:": "NVIDIA GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600",
+        "DirectX:": "Version 11",
+        "Network:": "Broadband Internet connection",
+        "Storage:": "60 GB available space",
+        "Sound Card:": "DirectX Compatible",
+        "languages": [
+            "English",
+            "Bulgarian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "Finnish",
+            "French",
+            "German",
+            "Greek",
+            "Hungarian",
+            "Italian",
+            "Japanese",
+            "Korean",
+            "Norwegian",
+            "Polish",
+            "Portuguese - Portugal",
+            "Portuguese - Brazil",
+            "Romanian",
+            "Russian",
+            "Simplified Chinese",
+            "Spanish - Spain",
+            "Swedish",
+            "Thai",
+            "Traditional Chinese",
+            "Turkish",
+            "Ukrainian",
+            "Spanish - Latin America",
+            "Vietnamese"
+        ]
+    },
+    {
+        "Title": "The Lab",
+        "Genre": [
+            "Action",
+            "Strategy",
+            "Free to Play"
+        ],
+        "Release Date": "05/04/2016",
+        "OS *:": "Windows 7 SP1, Windows 8.1 or Windows 10",
+        "Processor:": "Intel® i5-4590, AMD FX 8350 equivalent or better",
+        "Memory:": "4 GB RAM",
+        "Graphics:": "NVIDIA GeForce® GTX 970, AMD Radeon™ R9 290 equivalent or better, Video Output: HDMI 1.4, DisplayPort 1.2 or newer",
+        "VR Support:": "SteamVR. Standing or Room Scale",
+        "Additional Notes:": "1x USB 2.0 or better port also required",
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Czech",
+            "Finnish",
+            "Hungarian",
+            "Polish",
+            "Portuguese - Portugal",
+            "Portuguese - Brazil",
+            "Ukrainian",
+            "Bulgarian",
+            "Swedish",
+            "Italian",
+            "Japanese",
+            "Spanish - Spain",
+            "Danish",
+            "Korean",
+            "Russian",
+            "Simplified Chinese",
+            "Traditional Chinese",
+            "Turkish"
+        ]
+    },
+    {
+        "Title": "Counter-Strike 2 Soundtrack",
+        "Genre": [
+            "Action",
+            "Strategy",
+            "Free to Play"
+        ],
+        "Storage:": "28 MB available space",
+        "Storage (high-quality audio):": "Additional 68 MB available space",
+        "Additional Notes:": "MP3 320K and FLAC files included",
+        "languages": []
+    }
+]
